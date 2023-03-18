@@ -21,8 +21,7 @@ function Time() {
     }
     }
     
-    // Updating hour, minute, and second
-    // if they are less than 10
+    // Updating hour, minute, and second if they are less than 10
     hour = update(hour);
     minute = update(minute);
     second = update(second);
